@@ -1,0 +1,147 @@
+========== HOME ==========
+.home__subtitle
+Hello
+
+.home__title
+I'm <span> Alycia Carey </span>
+
+.home__buttons
+Photographer
+Zoologist
+Writer
+
+.home__description
+I help our clients create <span> brands </span>, build digital <span> products </span> and <span> services </span>, innovate, find opportunities, and validate ideas.
+
+.home__social-follow
+Follow Me on
+
+.home__social-links
+https://www.facebook.com/
+Like On Facebook
+
+https://www.instagram.com/
+Follow on Instagram
+
+https://linkedin.com/
+View My Profile
+
+========== ABOUT ==========
+.section__subtitle | .section__title
+My Intro
+About Me
+
+.about__description
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+
+.about__details
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat dolore magna aliqua Ut enim ad minim veniam duis aute irure dolor in reprehende.
+
+.award__titles
+International Photography <br> Awards 2016
+
+.award__details
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur autodit and fugit.
+
+========== SERVICES ==========
+.section__subtitle | .section__title
+My Services
+What I Offer
+
+.services__buttons
+Food Photography
+Wedding Photoshoot
+Product Art
+Drone Videography
+
+.services__title
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.
+
+.services__details
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit.
+
+========== WORK  ==========
+.section__subtitle | .section__title
+My Portfolio
+Recent Works
+
+========== PROJECT ==========
+.project__title
+Want to work together!
+
+.project__description
+I'm availabel for freelance work.
+
+.project__button
+Hire Me
+
+========== EXPERIENCE ==========
+.section__subtitle | .section__title
+My Journey
+My Experience
+
+.timeline__date | .timeline__title
+2018 - Present
+Project Consultant
+
+2015 - 2018
+UI/UX Designer
+
+2013 - 2015
+Creative Head
+
+2011 - 2013
+Technical Lead
+
+2013 - 2015
+Illustrator
+
+2013 - 2017
+Graphic Designer
+
+.timeline__text
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alterationr
+
+========== CONTACT ==========
+.section__subtitle | .section__title
+Get in touch
+Contact Me
+
+.contact__card-title | .contact__card-data
+My Location
+PO Box 16122, Collins, Victoria 3000, Australia
+
+Give a Call
+999-888-777
+
+Email Me
+sayhello@example.com
+
+.contact__social-links
+https://www.dribble.com/
+Follow me
+
+https://www.skype.com/
+Call me
+
+https://google.com/
+Share on Google
+
+========== FOOTER ==========
+.footer__title
+Alycia
+
+.footer__link
+About
+
+Projects
+
+Services
+
+.footer__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+
+.footer__copy
+&#169; crypticalcoder. All rights reserved
